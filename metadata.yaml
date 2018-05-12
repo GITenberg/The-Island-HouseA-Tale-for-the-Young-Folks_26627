@@ -1,0 +1,26 @@
+_repo: The-Island-HouseA-Tale-for-the-Young-Folks_26627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, F. M. (Frederic Morell)
+    alias: Holmes, Frederic Morell
+    birthdate: 1851
+    gutenberg_agent_id: '32132'
+    url: http://www.gutenberg.org/2009/agents/32132
+description: ''
+gutenberg_issued: '2008-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Floods -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Island House: A Tale for the Young Folks'
+url: http://www.gutenberg.org/ebooks/26627
