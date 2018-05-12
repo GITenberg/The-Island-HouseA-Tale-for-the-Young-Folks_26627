@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32132'
     url: http://www.gutenberg.org/2009/agents/32132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26627#The-Island-HouseA-Tale-for-the-Young-Folks
 gutenberg_issued: '2008-09-15'
 gutenberg_type: Text
 identifiers:
